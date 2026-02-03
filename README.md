@@ -1,7 +1,7 @@
 # Factory Design Pattern – Java
 
 ## 📌 Overview
-This project demonstrates the **Factory Design Pattern** using a real-world example: a **Notification system**.  
+This project demonstrates the **Factory Design Pattern** using a real-world example: a **Shape select system**.  
 The Factory Pattern helps encapsulate object creation and promotes **loose coupling** between classes.
 
 ---
