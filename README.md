@@ -29,4 +29,5 @@ This project demonstrates how to extend the functionality of a `Coffee` object b
 ## 🚀 How to Run
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/java-design-patterns.git](https://github.com/your-username/java-design-patterns.git)
+   git clone [https://github.com/Raviduofficial/java-decorator-pattern-demo.git](https://github.com/Raviduofficial/java-decorator-pattern-demo.git)
+   
