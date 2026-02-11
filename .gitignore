@@ -27,33 +27,3 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-
-# Compiled class files
-*.class
-
-# Log files
-*.log
-
-# Package files
-*.jar
-*.war
-*.ear
-
-# Eclipse / IntelliJ / VSCode project files
-/.idea/
-/*.iml
-/.vscode/
-/.project
-/.classpath
-/.settings/
-
-# Build folders
-/bin/
-/out/
-/target/
-/build/
-
-# Temporary files
-*.tmp
-*.swp
-*.DS_Store
